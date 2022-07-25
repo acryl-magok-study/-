@@ -1,2 +1,5 @@
 # react or vue, typescript, node.js ..
-기본적인 CRUD 구현
+
+Description : Basic CRUD implementation
+
+2022-07-05 create repository
