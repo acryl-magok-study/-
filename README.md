@@ -1,5 +1,5 @@
 # react or vue, typescript, node.js ..
 
-Description : Basic CRUD implementation
+Description : kiosk development
 
 2022-07-05 create repository
